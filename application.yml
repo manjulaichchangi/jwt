@@ -1,0 +1,9 @@
+jwt:
+  secret: secretkey
+server:
+  port: 8008
+spring:
+  datasource:
+    password: manju1995
+    url: jdbc:oracle:thin:@localhost:1521:XE
+    username: system
